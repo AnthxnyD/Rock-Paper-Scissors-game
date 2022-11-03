@@ -8,11 +8,6 @@ body {
   font-family: "Barlow Condensed", sans-serif;
 }
 
-/* 
--------------------------------------------------------------------------------
-HTML elements 
--------------------------------------------------------------------------------
-*/
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -67,7 +62,7 @@ HTML elements
 }
 
 .hands {
-  background-image: url("../assets/triangle.png");
+  background-image: url("../images/bg-triangle.svg");
   background-position: center;
   background-repeat: no-repeat;
   visibility: visible;
